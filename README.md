@@ -1,2 +1,2 @@
-# Sistem-Analizi-ve-Tasar-m-
+# Sistem-Analizi-ve-Tasarimi
 Yola Çık Projesi
